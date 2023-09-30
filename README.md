@@ -2,15 +2,15 @@
 # Mô tả sơ lược
 Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực tuyến, cho phép người dùng có thể tìm kiếm, mượn, trả sách, và quản lý các hoạt động của mình trong thư viện. 
 # Chức năng
-o	Tìm kiếm sách: Người dùng có thể tìm kiếm sách theo tên, tác giả, thể loại và nhiều yếu tố khác. 
-o	Đăng ký thành viên: Người dùng có thể đăng ký tài khoản thành viên để mượn sách. Mượn sách: Người dùng có thể chọn sách từ danh sách và yêu cầu mượn. 
-o	Trả sách: Người dùng có thể trả sách sau khi đã đọc xong hoặc không còn nhu cầu sử dụng. 
-o	Quản lý giỏ sách: Người dùng có thể xem danh sách sách được mượn và trạng thái của chúng. 
-o	Quản lý tài khoản: Cho phép thay đổi thông tin cá nhân, thay đổi mật khẩu, và xem lịch sử mượn sách. 
-o	Quản lý dữ liệu sách: Hệ thống cho phép quản trị viên thêm, sửa, xóa thông tin sách trong thư viện. 
-o	Công nghệ sử dụng: Ngôn ngữ lập trình: JavaScript, HTML, CSS. Framework: Ruby on Rails. 
+Tìm kiếm sách: Người dùng có thể tìm kiếm sách theo tên, tác giả, thể loại và nhiều yếu tố khác. 
+Đăng ký thành viên: Người dùng có thể đăng ký tài khoản thành viên để mượn sách. Mượn sách: Người dùng có thể chọn sách từ danh sách và yêu cầu mượn. 
+Trả sách: Người dùng có thể trả sách sau khi đã đọc xong hoặc không còn nhu cầu sử dụng. 
+Quản lý giỏ sách: Người dùng có thể xem danh sách sách được mượn và trạng thái của chúng. 
+Quản lý tài khoản: Cho phép thay đổi thông tin cá nhân, thay đổi mật khẩu, và xem lịch sử mượn sách. 
+Quản lý dữ liệu sách: Hệ thống cho phép quản trị viên thêm, sửa, xóa thông tin sách trong thư viện. 
+Công nghệ sử dụng: Ngôn ngữ lập trình: JavaScript, HTML, CSS. Framework: Ruby on Rails. 
 # Mục đích
-2. 1. Tăng cường hiệu quả quản lý: Hệ thống giúp đơn giản hóa công việc quản lý tài liệu và thành viên, giúp tiết kiệm thời gian và công sức trong việc tra cứu thông tin và sắp xếp tài liệu. 
+1. Tăng cường hiệu quả quản lý: Hệ thống giúp đơn giản hóa công việc quản lý tài liệu và thành viên, giúp tiết kiệm thời gian và công sức trong việc tra cứu thông tin và sắp xếp tài liệu. 
 2. Nâng cao trải nghiệm người dùng: Người dùng có thể dễ dàng tìm kiếm và truy cập các tài liệu trong thư viện, cập nhật thông tin cá nhân và quản lý mượn trả sách một cách tiện lợi. 
 3. Tối ưu hóa quy trình mượn trả sách: Hệ thống giúp tổ chức và quản lý quy trình mượn trả sách một cách hợp lý, đảm bảo sự tiện lợi và công bằng trong việc mượn và trả sách. 
 4. Tạo ra một cơ sở dữ liệu liên kết: Hệ thống giúp tạo ra và duy trì một cơ sở dữ liệu về tài liệu và thành viên trong thư viện, đồng thời cung cấp khả năng kết nối và chia sẻ thông tin với các hệ thống khác nếu cần thiết.
