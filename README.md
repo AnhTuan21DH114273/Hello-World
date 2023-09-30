@@ -23,6 +23,7 @@ Công nghệ sử dụng: Ngôn ngữ lập trình: JavaScript, HTML, CSS. Frame
 MySQL hoặc Firebase
 # Công nghệ
 **Web**
-- HTML, PHP
+- HTML
+- PHP
 **Frontend**
 - CSS
