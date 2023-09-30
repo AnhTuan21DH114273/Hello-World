@@ -27,5 +27,5 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 # Cơ sở dữ liệu
 MySQL hoặc Firebase
 # Công nghệ sử dụng: 
-Ngôn ngữ lập trình: HTML, CSS, PHP
-
+# Ngôn ngữ lập trình: HTML, CSS, PHP
+# Web: Visual Studio Code
