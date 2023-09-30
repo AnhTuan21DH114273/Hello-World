@@ -21,3 +21,8 @@ Công nghệ sử dụng: Ngôn ngữ lập trình: JavaScript, HTML, CSS. Frame
 4. Quản lý mượn trả sách: Hệ thống lưu trữ thông tin về mượn trả sách của thành viên, bao gồm thời gian mượn và trả sách, thu phí phạt khi trả sách quá hạn. 
 # Cơ sở dữ liệu
 MySQL hoặc Firebase
+# Công nghệ
+**Web**
+- HTML, PHP
+**Frontend**
+- CSS
