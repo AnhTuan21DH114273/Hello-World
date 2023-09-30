@@ -24,8 +24,8 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 2. Quản lý thành viên: Hệ thống hỗ trợ quản lý thông tin của người dùng, bao gồm đăng ký thành viên mới, cập nhật thông tin cá nhân, và quản lý tình trạng mượn trả sách. 
 3. Tìm kiếm và xem tài liệu: Người dùng có thể tìm kiếm và xem thông tin chi tiết về tài liệu có sẵn trong thư viện. 
 4. Quản lý mượn trả sách: Hệ thống lưu trữ thông tin về mượn trả sách của thành viên, bao gồm thời gian mượn và trả sách, thu phí phạt khi trả sách quá hạn. 
-# Cơ sở dữ liệu
-MySQL hoặc Firebase
+# Cơ sở dữ liệu: MySQL hoặc Firebase
+
 # Công nghệ sử dụng: 
 # Ngôn ngữ lập trình: HTML, CSS, PHP
 # Web: Visual Studio Code
