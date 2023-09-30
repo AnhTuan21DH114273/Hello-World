@@ -2,11 +2,16 @@
 # Mô tả sơ lược
 Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực tuyến, cho phép người dùng có thể tìm kiếm, mượn, trả sách, và quản lý các hoạt động của mình trong thư viện. 
 # Chức năng
-1. Tìm kiếm sách: Người dùng có thể tìm kiếm sách theo tên, tác giả, thể loại và nhiều yếu tố khác. 
-2. Đăng ký thành viên: Người dùng có thể đăng ký tài khoản thành viên để mượn sách. Mượn sách: Người dùng có thể chọn sách từ danh sách và yêu cầu mượn. 
-3. Trả sách: Người dùng có thể trả sách sau khi đã đọc xong hoặc không còn nhu cầu sử dụng. 
-4. Quản lý giỏ sách: Người dùng có thể xem danh sách sách được mượn và trạng thái của chúng. 
-5. Quản lý tài khoản: Cho phép thay đổi thông tin cá nhân, thay đổi mật khẩu, và xem lịch sử mượn sách. 
+1. Tìm kiếm sách: Người dùng có thể tìm kiếm sách theo tên, tác giả, thể loại và nhiều yếu tố khác.
+
+2. Đăng ký thành viên: Người dùng có thể đăng ký tài khoản thành viên để mượn sách. Mượn sách: Người dùng có thể chọn sách từ danh sách và yêu cầu mượn.
+
+3. Trả sách: Người dùng có thể trả sách sau khi đã đọc xong hoặc không còn nhu cầu sử dụng.
+
+4. Quản lý giỏ sách: Người dùng có thể xem danh sách sách được mượn và trạng thái của chúng.
+  
+5. Quản lý tài khoản: Cho phép thay đổi thông tin cá nhân, thay đổi mật khẩu, và xem lịch sử mượn sách.
+
 6. Quản lý dữ liệu sách: Hệ thống cho phép quản trị viên thêm, sửa, xóa thông tin sách trong thư viện. 
 
 # Mục đích
