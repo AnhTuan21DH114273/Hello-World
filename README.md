@@ -35,7 +35,4 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 |:--|:---------|:-----|
 |README.md|:hourglass: | :white_check_mark: |
 |Navbar & Footer|:hourglass: | :x:|
-|3|:x: | :x:|
-|4|:x: | :x:|
-|5|:x: | :x:|
-|6|:x: | :x:|
+
