@@ -31,10 +31,10 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 # Web: Visual Studio Code
 
 # Phân công công việc
-|STT| Đang làm | Xong |
+|Công việc| Đang làm | Xong |
 |:--|:---------|:-----|
-|1|:white_check_mark: | :white_check_mark: |
-|2|:x: | :x:|
+|README.md|:hourglass: | :white_check_mark: |
+|Navbar & Footer|:hourglass: | :x:|
 |3|:x: | :x:|
 |4|:x: | :x:|
 |5|:x: | :x:|
