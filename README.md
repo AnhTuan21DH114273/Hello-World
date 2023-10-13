@@ -34,5 +34,5 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 |Công việc| Đang làm | Xong |
 |:--|:---------|:-----|
 |README.md|:hourglass: | :white_check_mark: |
-|Navbar & Footer|:hourglass: | :x:|
+|Navbar & Footer|:hourglass: | ✅:|
 
