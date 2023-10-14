@@ -38,4 +38,7 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 |Main Page|:hourglass: | ✅|
 |About Web|:hourglass: | ✅|
 |Login & Logout|:hourglass: | ✅|
-
+## Tuần 1: Code Navbar và Footer
+Người làm: Trần Đoàn Anh Tuấn
+## Tuần 2 : Code Main Page, About Web
+Người làm : Trần Đoàn Anh Tuấn
