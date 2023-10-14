@@ -42,3 +42,5 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 Người làm: Trần Đoàn Anh Tuấn
 ## Tuần 2 : Code Main Page, About Web
 Người làm : Trần Đoàn Anh Tuấn
+## Tuần 3 : Code Login, Logout Page
+Người làm : Trần Dung Thảo
