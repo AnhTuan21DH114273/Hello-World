@@ -23,14 +23,14 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>Library Logo</h2>
+            <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>Library</h2>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.html" class="nav-item nav-link active">Home</a>
+                <a href="index.html" class="nav-item nav-link">Home</a>
                 <a href="about.html" class="nav-item nav-link">About</a>
                 <a href="courses.html" class="nav-item nav-link">Courses</a>
                 <div class="nav-item dropdown">
@@ -47,6 +47,90 @@
         </div>
     </nav>
     <!-- Navbar End -->
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-5">
+                            <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
+                            <h5 class="mb-3">Learning from books</h5>
+                            <p>Help you get through exams by reading famous books</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-5">
+                            <i class="fa fa-3x fa-globe text-primary mb-4"></i>
+                            <h5 class="mb-3">Book Around The Globe</h5>
+                            <p>We got books from around the world</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-5">
+                            <i class="fa fa-3x fa-home text-primary mb-4"></i>
+                            <h5 class="mb-3">Home Projects</h5>
+                            <p>Books that will help you make projects from home</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="service-item text-center pt-3">
+                        <div class="p-5">
+                            <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
+                            <h5 class="mb-3">Book Library</h5>
+                            <p>We will always provide the best book for students</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+    <!-- About Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100">
+                        <img class="img-fluid position-absolute w-100 h-100" src="./images/about.jpg" alt="" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">About Us</h6>
+                    <h1 class="mb-4">Welcome to our Library</h1>
+                    <h2 class="mb-4">This is only for authority, staff</h2>
+                    <h2 class="mb-4">Here are all type of books in our library:</h2>
+                    <div class="row gy-2 gx-4 mb-4">
+                        <div class="col-sm-6">
+                            <p class="mb-0 fs-3"><i class="fa fa-arrow-right text-primary me-2"></i>Skilled Books</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0 fs-3"><i class="fa fa-arrow-right text-primary me-2"></i>Projects Books</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0 fs-3"><i class="fa fa-arrow-right text-primary me-2"></i>Home Books</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0 fs-3"><i class="fa fa-arrow-right text-primary me-2"></i>Cartoon Books</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0 fs-3"><i class="fa fa-arrow-right text-primary me-2"></i>Adventure Books</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0 fs-3"><i class="fa fa-arrow-right text-primary me-2"></i>Professional Books</p>
+                        </div>
+                    </div>
+                    <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
 
 
     <!-- Footer Start -->
