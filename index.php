@@ -20,7 +20,7 @@
     <!-- Spinner End -->
 
 
-    <!-- Navbar Start -->
+    
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
             <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>Library</h2>
@@ -46,8 +46,7 @@
             <a href="./admin/index.php" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block" style="font-size:20px;">Login<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
-    <!-- Navbar End -->
-    <!-- Service Start -->
+    
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-4">
@@ -90,8 +89,7 @@
             </div>
         </div>
     </div>
-    <!-- Service End -->
-    <!-- About Start -->
+    
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
@@ -130,10 +128,10 @@
             </div>
         </div>
     </div>
-    <!-- About End -->
+    
 
 
-    <!-- Footer Start -->
+   
     <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
