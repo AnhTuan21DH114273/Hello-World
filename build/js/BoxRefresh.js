@@ -30,8 +30,6 @@
     data: '[data-widget="box-refresh"]'
   }
 
-  // BoxRefresh Class Definition
-  // =========================
   var BoxRefresh = function (element, options) {
     this.element  = element
     this.options  = options
