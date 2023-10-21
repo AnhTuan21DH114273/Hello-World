@@ -12,7 +12,7 @@ CREATE TABLE `admin` (
 
 
 INSERT INTO `admin` (`id`, `username`, `password`, `firstname`, `lastname`, `photo`, `created_on`) VALUES
-(1, 'admin', 'admin', 'Website', 'Create', 'profile_youtube.jpg', '2023-05-01');
+(1, 'admin', '$2y$10$By0zQXuGxetYP/onpfttguYqJ/yiX/COtXfySclDiZfuDx9ooasRC', 'Website', 'Create', 'profile_youtube.jpg', '2023-05-01');
 
 
 
