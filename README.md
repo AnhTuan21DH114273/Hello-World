@@ -38,6 +38,10 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 |Main Page|:hourglass: | ✅|
 |About Web|:hourglass: | ✅|
 |Login & Logout|:hourglass: | ✅|
+|Trang Đăng nhập|:hourglass: | ✅|
+|Trang Quản lý thư viện|:hourglass: | ✅|
+|Trang Quản lý Sách,Loại Sách, Mượn Sách, Trả Sách|:hourglass: | ✅|
+|Trang Quản lý Sinh Viên. Khóa|:hourglass: | ✅|
 # Phân loại công việc Code
 |Công việc| Người làm | Đang làm | Xong |
 |:--|:---------|:-----|:-----|
