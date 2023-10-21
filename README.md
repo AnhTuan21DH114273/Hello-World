@@ -38,9 +38,19 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 |Main Page|:hourglass: | ✅|
 |About Web|:hourglass: | ✅|
 |Login & Logout|:hourglass: | ✅|
-## Tuần 1: Code Navbar và Footer
-Người làm: Trần Đoàn Anh Tuấn
-## Tuần 2 : Code Main Page, About Web
-Người làm : Trần Đoàn Anh Tuấn
-## Tuần 3 : Code Login, Logout Page
-Người làm : Trần Dung Thảo
+|Trang Đăng nhập|:hourglass: | ✅|
+|Trang Quản lý thư viện|:hourglass: | ✅|
+|Trang Quản lý Sách,Loại Sách, Mượn Sách, Trả Sách|:hourglass: | ✅|
+|Trang Quản lý Sinh Viên. Khóa|:hourglass: | ✅|
+# Phân loại công việc Code
+|Công việc| Người làm | Đang làm | Xong |
+|:--|:---------|:-----|:-----|
+|Navbar & Footer| Trần Đoàn Anh Tuấn|:hourglass: | ✅|
+|Session & Scripts| Trần Đoàn Anh Tuấn|:hourglass: | ✅|
+|Trang chủ| Trần Đoàn Anh Tuấn|:hourglass: | ✅|
+|Trang Đăng nhập cho Admin| Trần Dung Thảo|:hourglass: | ✅|
+|Trang Quản lý Thư viện| Trần Dung Thảo|:hourglass: | ✅|
+|Trang Quản lý Sách và Loại Sách| Trần Đoàn Anh Tuấn|:hourglass: | ✅|
+|Trang Quản lý Mượn Sách và Trả Sách| Trần Dung Thảo|:hourglass: | ✅|
+|Trang Quản lý Sinh Viên| Trần Dung Thảo|:hourglass: | ✅|
+|Trang Quản lý Khóa| Trần Đoàn Anh Tuấn|:hourglass: | ✅|
