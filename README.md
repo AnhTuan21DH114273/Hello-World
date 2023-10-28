@@ -54,3 +54,5 @@ Dự án này nhằm tạo ra một hệ thống quản lý thư viện trực t
 |Trang Quản lý Mượn Sách và Trả Sách| Trần Dung Thảo|:hourglass: | ✅|
 |Trang Quản lý Sinh Viên| Trần Dung Thảo|:hourglass: | ✅|
 |Trang Quản lý Khóa| Trần Đoàn Anh Tuấn|:hourglass: | ✅|
+|Tạo Modal cho các chức năng| Trần Đoàn Anh Tuấn|:hourglass: | ✅|
+|Thêm hình ảnh cho giao diện| Trần Dung Thảo|:hourglass: | ✅|
